@@ -1,9 +1,9 @@
-Easy to use Matlab functions to calculate the Effective thichness for laminated plates with polymeric interlayers.
+Easy to use Matlab functions to calculate the Enhanced Effective thickness for laminated plates with polymeric interlayers.
 Material and geometric properties properties can be tuned.
 
 - Circular simply supported plated under uniformly distributed load (pressure load)
 - Clamped circular plate under uniformly distributed load (pressure load)
-- Circular plate undergoing th Ring on Ring test
+- Circular plate undergoing th Ring on Ring test (CDR Test)
 - Rectangular simply supported laminated plate under uniformly distributed load (pressure load)
 
 Want to know more about EET method? Read:
